@@ -99,4 +99,4 @@ if _name_ == "_main_":
 
  dbh = DatabricksHandler(dbutils)
 
- dbh.create_external_table(dbutils, "silver_global", "externalemployee_v2", "/global/confidential/externalemployee/wrkdnc/silver_layer/externalemployee/")
+ dbh.create_external_table(dbutils, "silver_global", "externalemployee", "/global/confidential/externalemployee/wrkdnc/silver_layer/externalemployee/")
