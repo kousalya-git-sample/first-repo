@@ -40,6 +40,10 @@ core_column_dict = {
  'sourcecreatedby': {'datatype': 'string', 'rename': 'sourcecreatedby'},
  'sourcecreateddatetime': {'datatype': 'datetime', 'rename': 'sourcecreateddatetime'},
  'sourcemodifiedby': {'datatype': 'string', 'rename': 'sourcemodifiedby'},
+
+
+
+ 
  'sourcemodifieddatetime': {'datatype': 'datetime', 'rename': 'sourcemodifieddatetime'},
  'sourcesystem': {'datatype': 'string', 'rename': 'sourcesystem'},
  'udp_create_ts': {'datatype': 'datetime', 'rename': 'udp_create_ts'},
